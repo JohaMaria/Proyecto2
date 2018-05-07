@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto2progra2;
+package MosaicMakerSerranoCamposSemestre1Anno2018;
 
 import GUI.Window;
 import javafx.application.Application;
